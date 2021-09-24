@@ -1,5 +1,5 @@
 import random
-
+print("Welcome!")
 options = ["rock", "paper", "scissor"]
 
 computer = random.choice(options)
