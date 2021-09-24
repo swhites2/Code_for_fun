@@ -1,5 +1,7 @@
 import random
-print("Welcome!")
+
+print("Welcome to the game of Rock, Paper, Scissors!  See if you can beat the computer. Good luck!")
+
 options = ["rock", "paper", "scissor"]
 
 computer = random.choice(options)
